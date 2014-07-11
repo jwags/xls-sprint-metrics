@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jwags/xls-sprint-metrics.png?label=ready&title=Ready)](https://waffle.io/jwags/xls-sprint-metrics)
 xls-sprint-metrics
 ==================
 
